@@ -226,7 +226,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 ## Email
 
 *Packages that help manage email sending.*
-
+* [colossus](https://github.com/vitorfs/colossus/) - Self-hosted email marketing solution
 * [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - A Django email backend that uses a celery task for sending the email.
 * [django-db-mailer](https://github.com/LPgenerator/django-db-mailer/) - Django module to easily send email/sms/push/tts using django templates stored on database and managed through the Django Admin.
 * [django-drip](https://github.com/zapier/django-drip) - Django Admin based management for drip email campaigns
